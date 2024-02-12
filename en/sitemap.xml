@@ -129,6 +129,18 @@
                 href="https://ryanwooa.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://ryanwooa.github.io/en/messagebox/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/messagebox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/messagebox/"
+                />
+  </url><url>
     <loc>https://ryanwooa.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"

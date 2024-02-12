@@ -20,7 +20,14 @@
       <link>https://ryanwooa.github.io/zh/posts/life/helloworld/</link>
       <pubDate>Sun, 11 Feb 2024 21:00:00 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/posts/life/helloworld/</guid>
-      <description>你好，陌生人 欢迎来到我的博客，这是第一篇文章！很高兴你能来看看。</description>
+      <description>欢迎来到我的博客，这是第一篇文章！很高兴你能来看看。</description>
+    </item>
+    <item>
+      <title>留言板</title>
+      <link>https://ryanwooa.github.io/zh/messagebox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ryanwooa.github.io/zh/messagebox/</guid>
+      <description>你可以在这里留言。我会尽快回复你。</description>
     </item>
   </channel>
 </rss>
