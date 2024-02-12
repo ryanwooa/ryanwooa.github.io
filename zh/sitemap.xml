@@ -28,6 +28,51 @@
                 href="https://ryanwooa.github.io/zh/posts/life/"
                 />
   </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/github-action/</loc>
+    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/github-pages/</loc>
+    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/hugo/</loc>
+    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/</loc>
+    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/papermod/</loc>
+    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/tags/papermod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/papermod/"
+                />
+  </url><url>
     <loc>https://ryanwooa.github.io/zh/</loc>
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
     <xhtml:link
@@ -54,21 +99,8 @@
                 href="https://ryanwooa.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://ryanwooa.github.io/zh/tags/%E7%A7%91%E6%8A%80/</loc>
+    <loc>https://ryanwooa.github.io/zh/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
-  </url><url>
-    <loc>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermid/</loc>
-    <lastmod>2024-02-11T21:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermid/"
-                />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/posts/</loc>
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
