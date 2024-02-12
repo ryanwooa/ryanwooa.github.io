@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/en/tags/blog/</link>
+    <description>Recent content in Blog on Ryan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Feb 2024 21:37:00 +1300</lastBuildDate>
+    <atom:link href="https://ryanwooa.github.io/en/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Hugo and PaperMod to build a blog</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermid/</link>
+      <pubDate>Sun, 11 Feb 2024 21:37:00 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermid/</guid>
+      <description>To be continued&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
