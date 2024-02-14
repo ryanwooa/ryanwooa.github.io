@@ -6,8 +6,15 @@
     <description>Recent content in 博客搭建 on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 11 Feb 2024 21:37:00 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 21:01:29 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; PaperMod 美化整理（更新中）</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/customize_hugo/</link>
+      <pubDate>Tue, 13 Feb 2024 21:01:29 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/customize_hugo/</guid>
+      <description>1. 外观类 1.1 主题文件位置调整 在安装好主题后，可以将下图圈出来的文件复制到站点对应的目录下，这样就可以自定义博客的样式，而不会影响主题的更新。 H</description>
+    </item>
     <item>
       <title>Hugo &#43; Github Pages 搭建个人博客</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/</link>

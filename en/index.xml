@@ -6,8 +6,15 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Feb 2024 21:37:00 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 21:37:00 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; PaperMod Customization</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/customize_hugo/</link>
+      <pubDate>Tue, 13 Feb 2024 21:01:29 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/customize_hugo/</guid>
+      <description>1. UI 1.1 Theme file location adjustment After installing the theme, you can copy the files circled in the following image to the corresponding directory on the site, so that you can customize the style of the blog without affecting the update of the theme. Hugo will prioritize reading files from the site directory when loading, and if not, read files from the theme directory. 1.2 Side Table of Contents</description>
+    </item>
     <item>
       <title>Create a blog with Hugo and Github Pages</title>
       <link>https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/</link>
@@ -18,7 +25,7 @@
     <item>
       <title>Hello World</title>
       <link>https://ryanwooa.github.io/en/posts/life/helloworld/</link>
-      <pubDate>Sun, 11 Feb 2024 21:00:00 +1300</pubDate>
+      <pubDate>Thu, 01 Feb 2024 21:00:00 +1300</pubDate>
       <guid>https://ryanwooa.github.io/en/posts/life/helloworld/</guid>
       <description>Welcome to my blog! This is the first post. I&amp;rsquo;m so excited to share my thoughts with you. </description>
     </item>
