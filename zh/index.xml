@@ -6,8 +6,15 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 13 Feb 2024 21:01:29 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 17:23:15 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我 😎</title>
+      <link>https://ryanwooa.github.io/zh/about/</link>
+      <pubDate>Wed, 14 Feb 2024 17:23:15 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/about/</guid>
+      <description>class Me: def __init__(self): self.name = &amp;#34;Ryan Wu&amp;#34; self.born_year = 1993 self.MBTI = INTJ self.hometown = &amp;#34;Baoji, Shaanxi, CN&amp;#34; self.curr_location = &amp;#34;Auckland, NZ&amp;#34; self.grad_school = &amp;#34;University of Auckland&amp;#34; self.undergrad_school = &amp;#34;Nanjing University of Aeronautics and Astronautics&amp;#34; 致力于成为一名优秀的软件工程师，热爱编程，热爱开源，热爱分享。</description>
+    </item>
     <item>
       <title>Hugo &#43; PaperMod 美化整理</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/customize_hugo/</link>
@@ -30,11 +37,11 @@
       <description>欢迎来到我的博客，这是第一篇文章！很高兴你能来看看。</description>
     </item>
     <item>
-      <title>留言板</title>
+      <title>留言板 📬</title>
       <link>https://ryanwooa.github.io/zh/messagebox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ryanwooa.github.io/zh/messagebox/</guid>
-      <description>你可以在这里留言。我会尽快回复你。</description>
+      <description>你可以在这里留言。我会尽快回复你。 👇👇👇</description>
     </item>
   </channel>
 </rss>
