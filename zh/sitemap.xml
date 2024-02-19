@@ -28,6 +28,19 @@
                 href="https://ryanwooa.github.io/zh/posts/life/"
                 />
   </url><url>
+    <loc>https://ryanwooa.github.io/zh/</loc>
+    <lastmod>2024-02-14T17:23:15+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/"
+                />
+  </url><url>
     <loc>https://ryanwooa.github.io/zh/about/</loc>
     <lastmod>2024-02-14T17:23:15+13:00</lastmod>
     <xhtml:link
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/tags/papermod/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/zh/</loc>
-    <lastmod>2024-02-13T21:01:29+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryanwooa.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/</loc>
