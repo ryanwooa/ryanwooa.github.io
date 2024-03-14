@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>生活 on Ryan&#39;s Blog</title>
-    <link>https://ryanwooa.github.io/zh/posts/life/</link>
-    <description>Recent content in 生活 on Ryan&#39;s Blog</description>
+    <title>Rime on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/zh/tags/rime/</link>
+    <description>Recent content in Rime on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 14 Mar 2024 21:34:29 +1300</lastBuildDate>
-    <atom:link href="https://ryanwooa.github.io/zh/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ryanwooa.github.io/zh/tags/rime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rime &#43; 小鹤双拼</title>
       <link>https://ryanwooa.github.io/zh/posts/life/rime&#43;xiaohe/</link>
       <pubDate>Thu, 14 Mar 2024 21:34:29 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/posts/life/rime&#43;xiaohe/</guid>
       <description>1. 背景 以前就听过 Rime 输入法的大名，可以根据自己的喜好自定义输入法。但是看到复杂的配置教程，就被劝退了，多年使用的搜狗输入法去广告版也是 OK 的。 前</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://ryanwooa.github.io/zh/posts/life/helloworld/</link>
-      <pubDate>Thu, 01 Feb 2024 21:00:00 +1300</pubDate>
-      <guid>https://ryanwooa.github.io/zh/posts/life/helloworld/</guid>
-      <description>欢迎来到我的博客，这是第一篇文章！很高兴你能来看看。</description>
     </item>
   </channel>
 </rss>
