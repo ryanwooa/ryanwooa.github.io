@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>网站部署 on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/zh/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/</link>
+    <description>Recent content in 网站部署 on Ryan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 04 May 2024 16:37:00 +1300</lastBuildDate>
+    <atom:link href="https://ryanwooa.github.io/zh/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用AWS部署React全栈项目</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</link>
+      <pubDate>Sat, 04 May 2024 16:37:00 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</guid>
+      <description>1. 背景 近期和朋友们开发了一个全栈项目，包括React前端和Express后端，保存在一个github仓库中。现在想把这个项目上线，部署出来。</description>
+    </item>
+  </channel>
+</rss>

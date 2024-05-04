@@ -6,8 +6,15 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 14 Mar 2024 21:34:29 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 16:37:00 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用AWS部署React全栈项目</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</link>
+      <pubDate>Sat, 04 May 2024 16:37:00 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</guid>
+      <description>1. 背景 近期和朋友们开发了一个全栈项目，包括React前端和Express后端，保存在一个github仓库中。现在想把这个项目上线，部署出来。</description>
+    </item>
     <item>
       <title>Rime &#43; 小鹤双拼</title>
       <link>https://ryanwooa.github.io/zh/posts/life/rime_xiaohe/</link>
