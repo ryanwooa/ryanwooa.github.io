@@ -13,7 +13,16 @@
       <link>https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/</link>
       <pubDate>Sun, 11 Feb 2024 21:37:00 +1300</pubDate>
       <guid>https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/</guid>
-      <description>1. Introduction 1.1 What is Hugo Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. 1.2 What is Github Pages GitHub Pages is a static site hosting service that directly retrieves HTML, CSS, and JavaScript files from the repository on GitHub, (optional) runs the files through the build process, and then publishes the website. Users can</description>
+      <description>&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;
+&lt;h3 id=&#34;11-what-is-hugo&#34;&gt;1.1 What is Hugo&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;hugo.png&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
+ is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;
+&lt;h3 id=&#34;12-what-is-github-pages&#34;&gt;1.2 What is Github Pages&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;
+ is a static site hosting service that directly retrieves HTML, CSS, and JavaScript files from the repository on GitHub, (optional) runs the files through the build process, and then publishes the website.&lt;/p&gt;
+&lt;p&gt;Users can host sites on GitHub&amp;rsquo;s GitHub.io domain or their own custom domain.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

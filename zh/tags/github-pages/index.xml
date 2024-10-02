@@ -13,7 +13,12 @@
       <link>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/</link>
       <pubDate>Sun, 11 Feb 2024 21:37:00 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/</guid>
-      <description>1. 介绍 1.1 什么是Hugo Hugo 是用 Go 语言写的静态网站生成器（Static Site Generator），可以把 Markdown 文件转化成 HTML 文件。具有简单、易用、高效、易</description>
+      <description>&lt;h2 id=&#34;1-介绍&#34;&gt;1. 介绍&lt;/h2&gt;
+&lt;h3 id=&#34;11-什么是hugo&#34;&gt;1.1 什么是Hugo&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;hugo.png&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
+ 是用 Go 语言写的静态网站生成器（Static Site Generator），可以把 Markdown 文件转化成 HTML 文件。具有简单、易用、高效、易扩展、快速部署的特点。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
