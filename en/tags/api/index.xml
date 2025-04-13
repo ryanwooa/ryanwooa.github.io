@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API on Ryan&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/api/</link>
+    <description>Recent content in API on Ryan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2025 22:17:29 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Map JavaScript API 如何在谷歌地图上显示自定义导航路线</title>
+      <link>http://localhost:1313/en/posts/tech/goolemapnavigation/</link>
+      <pubDate>Fri, 11 Apr 2025 22:17:29 +1300</pubDate>
+      <guid>http://localhost:1313/en/posts/tech/goolemapnavigation/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;direction.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h2&gt;
+&lt;p&gt;在使用 GoogleMap JavaScript API 的时候，可能存在允许用户查询路线的场景。此时，如果想要在地图上添加导航路线，应该如何去做。&lt;/p&gt;
+&lt;h2 id=&#34;2-相关知识点&#34;&gt;2. 相关知识点&lt;/h2&gt;
+&lt;p&gt;通过 Google Directions API, 可以获取到两个或者多个位置之间的导航信息，比如距离，时间，还有在地图上的路线等信息。通过把这些获取到的信息，传递给 Map JavaScript，就可以实现在嵌入的地图上显示导航路线了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ryanwooa.github.io/zh/posts/tech/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,57 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/posts/life/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/api/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/google-map/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/javascript/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/posts/</loc>
+    <lastmod>2025-04-11T22:17:29+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryanwooa.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/aws/</loc>
@@ -67,32 +118,6 @@
                 href="https://ryanwooa.github.io/zh/tags/react/"
                 />
   </url><url>
-    <loc>https://ryanwooa.github.io/zh/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryanwooa.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/zh/tags/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryanwooa.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/tags/"
-                />
-  </url><url>
     <loc>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</loc>
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
@@ -117,19 +142,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/zh/posts/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryanwooa.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/posts/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/rime/</loc>
