@@ -11,7 +11,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/"
                 />
   </url><url>
@@ -24,7 +24,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/life/"
                 />
   </url><url>
@@ -37,7 +37,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/api/"
                 />
   </url><url>
@@ -50,7 +50,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/"
                 />
   </url><url>
@@ -63,7 +63,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/google-map/"
                 />
   </url><url>
@@ -76,7 +76,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/goolemapnavigation/"
                 />
   </url><url>
@@ -89,7 +89,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/javascript/"
                 />
   </url><url>
@@ -102,7 +102,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/"
                 />
   </url><url>
@@ -115,7 +115,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/"
                 />
   </url><url>
@@ -128,7 +128,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/aws/"
                 />
   </url><url>
@@ -141,7 +141,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/aws&#43;react/"
                 />
   </url><url>
@@ -154,7 +154,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/node.js/"
                 />
   </url><url>
@@ -167,7 +167,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/react/"
                 />
   </url><url>
@@ -180,8 +180,21 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/en/posts/tech/rime_xiaohe/</loc>
+    <lastmod>2024-03-14T21:34:29+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/tech/rime_xiaohe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/posts/tech/rime_xiaohe/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/en/about/</loc>
@@ -193,7 +206,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/about/"
                 />
   </url><url>
@@ -209,7 +222,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/hugo/"
                 />
   </url><url>
@@ -222,7 +235,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/customize_hugo/"
                 />
   </url><url>
@@ -235,7 +248,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/papermod/"
                 />
   </url><url>
@@ -248,7 +261,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/"
                 />
   </url><url>
@@ -261,7 +274,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/github-action/"
                 />
   </url><url>
@@ -274,7 +287,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/github-pages/"
                 />
   </url><url>
@@ -287,7 +300,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/life/helloworld/"
                 />
   </url><url>
@@ -299,7 +312,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/archives/"
                 />
   </url><url>
@@ -311,7 +324,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/categories/"
                 />
   </url><url>
@@ -323,7 +336,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/messagebox/"
                 />
   </url><url>
@@ -335,7 +348,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/search/"
                 />
   </url>

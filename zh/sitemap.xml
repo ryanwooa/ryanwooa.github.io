@@ -6,7 +6,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/"
                 />
     <xhtml:link
@@ -19,7 +19,7 @@
     <lastmod>2024-02-01T21:00:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/life/"
                 />
     <xhtml:link
@@ -32,7 +32,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/api/"
                 />
     <xhtml:link
@@ -45,7 +45,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/google-map/"
                 />
     <xhtml:link
@@ -58,7 +58,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/goolemapnavigation/"
                 />
     <xhtml:link
@@ -71,7 +71,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/javascript/"
                 />
     <xhtml:link
@@ -84,7 +84,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/"
                 />
     <xhtml:link
@@ -97,7 +97,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/"
                 />
     <xhtml:link
@@ -110,7 +110,7 @@
     <lastmod>2025-04-11T22:17:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/"
                 />
     <xhtml:link
@@ -123,7 +123,7 @@
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/aws/"
                 />
     <xhtml:link
@@ -136,7 +136,7 @@
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/node.js/"
                 />
     <xhtml:link
@@ -149,7 +149,7 @@
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/react/"
                 />
     <xhtml:link
@@ -162,7 +162,7 @@
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/aws&#43;react/"
                 />
     <xhtml:link
@@ -175,7 +175,7 @@
     <lastmod>2024-05-04T16:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/"
                 />
     <xhtml:link
@@ -186,12 +186,22 @@
   </url><url>
     <loc>https://ryanwooa.github.io/zh/posts/tech/rime_xiaohe/</loc>
     <lastmod>2024-03-14T21:34:29+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/posts/tech/rime_xiaohe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/tech/rime_xiaohe/"
+                />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/about/</loc>
     <lastmod>2024-02-14T17:23:15+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/about/"
                 />
     <xhtml:link
@@ -204,7 +214,7 @@
     <lastmod>2024-02-13T21:01:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/hugo/"
                 />
     <xhtml:link
@@ -217,7 +227,7 @@
     <lastmod>2024-02-13T21:01:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/customize_hugo/"
                 />
     <xhtml:link
@@ -230,7 +240,7 @@
     <lastmod>2024-02-13T21:01:29+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/papermod/"
                 />
     <xhtml:link
@@ -246,7 +256,7 @@
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/github-action/"
                 />
     <xhtml:link
@@ -259,7 +269,7 @@
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/tags/github-pages/"
                 />
     <xhtml:link
@@ -272,7 +282,7 @@
     <lastmod>2024-02-11T21:37:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/tech/hugo&#43;papermod/"
                 />
     <xhtml:link
@@ -285,7 +295,7 @@
     <lastmod>2024-02-01T21:00:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/posts/life/helloworld/"
                 />
     <xhtml:link
@@ -297,7 +307,7 @@
     <loc>https://ryanwooa.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/categories/"
                 />
     <xhtml:link
@@ -309,7 +319,7 @@
     <loc>https://ryanwooa.github.io/zh/messagebox/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/messagebox/"
                 />
     <xhtml:link
@@ -321,7 +331,7 @@
     <loc>https://ryanwooa.github.io/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/archives/"
                 />
     <xhtml:link
@@ -333,7 +343,7 @@
     <loc>https://ryanwooa.github.io/zh/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://ryanwooa.github.io/en/search/"
                 />
     <xhtml:link
