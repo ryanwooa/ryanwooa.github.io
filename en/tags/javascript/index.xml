@@ -13,9 +13,7 @@
       <link>https://ryanwooa.github.io/en/posts/tech/goolemapnavigation/</link>
       <pubDate>Fri, 11 Apr 2025 22:17:29 +1300</pubDate>
       <guid>https://ryanwooa.github.io/en/posts/tech/goolemapnavigation/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;direction.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;1-background&#34;&gt;1. Background&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;1-background&#34;&gt;1. Background&lt;/h2&gt;
 &lt;p&gt;When using the Google Maps JavaScript API, there may be scenarios where users need to query routes. In such cases, how can navigation routes be displayed on the map?&lt;/p&gt;
 &lt;h2 id=&#34;2-related-concepts&#34;&gt;2. Related Concepts&lt;/h2&gt;
 &lt;p&gt;With the Google Directions API, you can retrieve navigation information between two or more locations — such as distance, duration, and route details on the map. By passing this data to the Maps JavaScript API, it&amp;rsquo;s possible to render the navigation route directly on an embedded map.&lt;/p&gt;</description>

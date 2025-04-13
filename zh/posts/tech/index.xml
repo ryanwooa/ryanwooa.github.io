@@ -13,9 +13,7 @@
       <link>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</link>
       <pubDate>Fri, 11 Apr 2025 22:17:29 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;direction.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h2&gt;
 &lt;p&gt;在使用 GoogleMap JavaScript API 的时候，可能存在允许用户查询路线的场景。此时，如果想要在地图上添加导航路线，应该如何去做。&lt;/p&gt;
 &lt;h2 id=&#34;2-相关知识点&#34;&gt;2. 相关知识点&lt;/h2&gt;
 &lt;p&gt;通过 Google Directions API, 可以获取到两个或者多个位置之间的导航信息，比如距离，时间，还有在地图上的路线等信息。通过把这些获取到的信息，传递给 Map JavaScript，就可以实现在嵌入的地图上显示导航路线了。&lt;/p&gt;</description>
@@ -29,6 +27,16 @@
 &lt;h2 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h2&gt;
 &lt;p&gt;近期和朋友们开发了一个全栈项目，包括React前端和Express后端，保存在一个github仓库中。现在想把这个项目上线，部署出来。&lt;/p&gt;
 &lt;p&gt;对于react项目来说有不少免费部署平台，比如vercel，digitalOcean。但是考虑这个项目中同时包含前端和后端，就考虑把他们部署在一个地方。参考了许多资料后决定把这个全栈项目部署到AWS云上。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rime &#43; 小鹤双拼</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/rime_xiaohe/</link>
+      <pubDate>Thu, 14 Mar 2024 21:34:29 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/rime_xiaohe/</guid>
+      <description>&lt;h1 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h1&gt;
+&lt;p&gt;以前就听过 Rime 输入法的大名，可以根据自己的喜好自定义输入法。但是看到复杂的配置教程，就被劝退了，多年使用的搜狗输入法去广告版也是 OK 的。&lt;/p&gt;
+&lt;p&gt;前两天刷 X，看到有人推荐了一个叫作&lt;a href=&#34;https://www.mintimate.cc/zh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oh-my-rime&lt;/a&gt;
+的 Rime 快速初始化模板，就又心痒痒了起来，想要试一下大名鼎鼎的 Rime 输入法。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo &#43; PaperMod 美化整理</title>
