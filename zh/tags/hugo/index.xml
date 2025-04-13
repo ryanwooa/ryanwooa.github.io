@@ -16,7 +16,7 @@
       <description>&lt;h2 id=&#34;1-外观类&#34;&gt;1. 外观类&lt;/h2&gt;
 &lt;h3 id=&#34;11-主题文件位置调整&#34;&gt;1.1 主题文件位置调整&lt;/h3&gt;
 &lt;p&gt;在安装好主题后，可以将下图圈出来的文件复制到站点对应的目录下，这样就可以自定义博客的样式，而不会影响主题的更新。&lt;/p&gt;
-&lt;p&gt;Hugo在加载时会优先读取站点目录下的文件，如果没有则读取&lt;code&gt;theme&lt;/code&gt;目录下的文件。&lt;/p&gt;</description>
+&lt;p&gt;Hugo 在加载时会优先读取站点目录下的文件，如果没有则读取&lt;code&gt;theme&lt;/code&gt;目录下的文件。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo &#43; Github Pages 搭建个人博客</title>
@@ -24,10 +24,8 @@
       <pubDate>Sun, 11 Feb 2024 21:37:00 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/posts/tech/hugo&#43;papermod/</guid>
       <description>&lt;h2 id=&#34;1-介绍&#34;&gt;1. 介绍&lt;/h2&gt;
-&lt;h3 id=&#34;11-什么是hugo&#34;&gt;1.1 什么是Hugo&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;hugo.png&#34; alt=&#34;&#34;  /&gt;
-
-&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
+&lt;h3 id=&#34;11-什么是-hugo&#34;&gt;1.1 什么是 Hugo&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
  是用 Go 语言写的静态网站生成器（Static Site Generator），可以把 Markdown 文件转化成 HTML 文件。具有简单、易用、高效、易扩展、快速部署的特点。&lt;/p&gt;</description>
     </item>
   </channel>
