@@ -6,8 +6,17 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 11 Apr 2025 22:17:29 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 21:45:16 +1200</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新普利茅斯： 雨林，“仙境”</title>
+      <link>https://ryanwooa.github.io/zh/posts/life/newplymouth/</link>
+      <pubDate>Wed, 16 Apr 2025 21:45:16 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/life/newplymouth/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;鉴于很久都没有去较远的地方旅游了，2 月底，我和我的女朋友 Chelsea，还有我们一个朋友 Jennie 相约去了新西兰北岛的新普利茅斯。&lt;/p&gt;
+&lt;p&gt;之前注意的这个地方还是因为这里有个很美的雪山，所以这次也是准备去徒步看雪山。如果你在从谷歌地图上打开实景地图看这里，你会发现这里有一个完整的圆形，十分奇特，那个圆形中心，就是我们此行的目的地，人称新西兰小富士山的 Mt. Taranaki&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google Map JavaScript API 如何在谷歌地图上显示自定义导航路线</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</link>

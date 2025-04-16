@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Life on Ryan&#39;s Blog</title>
-    <link>https://ryanwooa.github.io/en/posts/life/</link>
-    <description>Recent content in Life on Ryan&#39;s Blog</description>
+    <title>Mt. Taranaki on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/en/tags/mt.-taranaki/</link>
+    <description>Recent content in Mt. Taranaki on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 16 Apr 2025 21:45:16 +1200</lastBuildDate>
-    <atom:link href="https://ryanwooa.github.io/en/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ryanwooa.github.io/en/tags/mt.-taranaki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Plymouth: Rainforest Dreams and Misty Wonderlands</title>
       <link>https://ryanwooa.github.io/en/posts/life/newplymouth/</link>
@@ -16,15 +16,6 @@
       <description>&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
 &lt;p&gt;Since we hadn’t traveled far in quite a while, at the end of February, my girlfriend Chelsea, our friend Jennie, and I planned a trip to New Plymouth on New Zealand’s North Island.&lt;/p&gt;
 &lt;p&gt;I first noticed this place because of its beautiful snow-capped mountain. This time, our goal was to hike and see the mountain up close. If you check out this area on Google Maps Street View, you’ll notice a perfect circle of greenery — right at the center of that circle is our destination: Mt. Taranaki, often called the &amp;ldquo;Mt. Fuji of New Zealand.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://ryanwooa.github.io/en/posts/life/helloworld/</link>
-      <pubDate>Thu, 01 Feb 2024 21:00:00 +1300</pubDate>
-      <guid>https://ryanwooa.github.io/en/posts/life/helloworld/</guid>
-      <description>&lt;p&gt;Welcome to my blog! This is the first post. I&amp;rsquo;m so excited to share my thoughts with you.
-&lt;img loading=&#34;lazy&#34; src=&#34;DSC03905.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
