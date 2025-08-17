@@ -6,8 +6,18 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Apr 2025 21:45:16 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:37:00 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New PWA experience</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/installpwa/</link>
+      <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/installpwa/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Some time ago, my boss told me that our web project needed to support offline usage — allowing users to use certain features even when they’re not connected to the internet. At first, I thought this was kind of magical. Normally, when a webpage can’t connect to the server, it just shows a 404 error, right?&lt;/p&gt;
+&lt;p&gt;After looking it up online, I learned about something called Service Worker, which can cache webpages so that when offline, the previously cached pages can still be used.
+At the same time, this technology also allows a website to work like an app: users can add the site to their phone’s home screen and open it just like an app. This is called PWA.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Plymouth: Rainforest Dreams and Misty Wonderlands</title>
       <link>https://ryanwooa.github.io/en/posts/life/newplymouth/</link>

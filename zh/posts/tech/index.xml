@@ -6,8 +6,16 @@
     <description>Recent content in 科技 on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 11 Apr 2025 22:17:29 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:37:00 +1300</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PWA新体验</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/installpwa/</link>
+      <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/installpwa/</guid>
+      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
+&lt;p&gt;前段时间，老板告诉我说，我们的网页项目需要支持离线使用的功能，要让用户在没网的情况下也能使用部分功能。刚开始听到的时候，我还觉得好神奇，不是网页连不上服务器就会 404 了吗。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google Map JavaScript API 如何在谷歌地图上显示自定义导航路线</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</link>
