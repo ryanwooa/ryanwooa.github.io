@@ -6,8 +6,15 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 17 Aug 2025 12:37:00 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:40:22 +1200</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js 项目 SEO 实践：从概念到落地</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</link>
+      <pubDate>Tue, 28 Apr 2026 08:40:22 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</guid>
+      <description>&lt;p&gt;做 Web 应用时，功能跑通往往只占一半。另一半是：&lt;strong&gt;搜索引擎能不能找到你、能不能正确理解你的页面&lt;/strong&gt;。这篇文章以 Next.js App Router 为例，结合一次真实项目的 SEO 改造，讲清楚「是什么、为什么、怎么配、上线后怎么管」。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PWA新体验</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/installpwa/</link>
@@ -60,7 +67,7 @@
       <link>https://ryanwooa.github.io/zh/about/</link>
       <pubDate>Wed, 14 Feb 2024 17:23:15 +1300</pubDate>
       <guid>https://ryanwooa.github.io/zh/about/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C&#34; data-lang=&#34;C&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;class Me:
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-C&#34; data-lang=&#34;C&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;class Me:
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    def &lt;span style=&#34;color:#a6e22e&#34;&gt;__init__&lt;/span&gt;(self)&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Ryan Wu&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.born_year &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1993&lt;/span&gt;

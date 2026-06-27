@@ -6,8 +6,15 @@
     <description>Recent content in API on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 11 Apr 2025 22:17:29 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:40:22 +1200</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/zh/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js 项目 SEO 实践：从概念到落地</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</link>
+      <pubDate>Tue, 28 Apr 2026 08:40:22 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</guid>
+      <description>&lt;p&gt;做 Web 应用时，功能跑通往往只占一半。另一半是：&lt;strong&gt;搜索引擎能不能找到你、能不能正确理解你的页面&lt;/strong&gt;。这篇文章以 Next.js App Router 为例，结合一次真实项目的 SEO 改造，讲清楚「是什么、为什么、怎么配、上线后怎么管」。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google Map JavaScript API 如何在谷歌地图上显示自定义导航路线</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/goolemapnavigation/</link>
