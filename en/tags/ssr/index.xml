@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>React on Ryan&#39;s Blog</title>
-    <link>https://ryanwooa.github.io/en/tags/react/</link>
-    <description>Recent content in React on Ryan&#39;s Blog</description>
+    <title>SSR on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/en/tags/ssr/</link>
+    <description>Recent content in SSR on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 18 Feb 2026 13:44:16 +1200</lastBuildDate>
-    <atom:link href="https://ryanwooa.github.io/en/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ryanwooa.github.io/en/tags/ssr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From a Frontend Database Architecture to Gradual SSR Migration</title>
       <link>https://ryanwooa.github.io/en/posts/tech/csrtossr/</link>
@@ -17,16 +17,6 @@
 &lt;p&gt;Early on, the project used a &lt;strong&gt;frontend database + backend sync&lt;/strong&gt; model.&lt;/p&gt;
 &lt;p&gt;When a user opened the site, data was synced from the backend into a local browser database (IndexedDB / Dexie). After that, almost every read on the page went through this local layer instead of hitting the API on each navigation.&lt;/p&gt;
 &lt;p&gt;The upside was clear: &lt;strong&gt;the first load was slow, but everything after that felt very fast&lt;/strong&gt;. Lists, detail views, filters, and sorting were essentially local reads with almost no network latency—closer to an offline-first web app than a classic SPA.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deploy a React project on AWS EC2</title>
-      <link>https://ryanwooa.github.io/en/posts/tech/aws&#43;react/</link>
-      <pubDate>Sat, 04 May 2024 16:37:00 +1300</pubDate>
-      <guid>https://ryanwooa.github.io/en/posts/tech/aws&#43;react/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;1-background&#34;&gt;1. Background&lt;/h2&gt;
-&lt;p&gt;Recently, I developed a full stack project with friends, including React front-end and Express back-end, stored in a GitHub repository. I want to launch and deploy this project now.&lt;/p&gt;
-&lt;p&gt;For React projects, there are many free deployment platforms, such as Vercel and DigitalOcean. But considering that this project includes both the front-end and back-end, consider deploying them in one place. After consulting many materials, it was decided to deploy this full stack project to the AWS cloud.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

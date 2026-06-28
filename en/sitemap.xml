@@ -171,6 +171,58 @@
                 href="https://ryanwooa.github.io/zh/posts/tech/websiteseo/"
                 />
   </url><url>
+    <loc>https://ryanwooa.github.io/en/posts/tech/csrtossr/</loc>
+    <lastmod>2026-02-18T13:44:16+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/posts/tech/csrtossr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/tech/csrtossr/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/en/tags/next.js/</loc>
+    <lastmod>2026-02-18T13:44:16+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/next.js/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/next.js/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/en/tags/react/</loc>
+    <lastmod>2026-02-18T13:44:16+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/react/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/react/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/en/tags/ssr/</loc>
+    <lastmod>2026-02-18T13:44:16+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/ssr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/ssr/"
+                />
+  </url><url>
     <loc>https://ryanwooa.github.io/en/posts/tech/installpwa/</loc>
     <lastmod>2025-08-17T12:37:00+13:00</lastmod>
     <xhtml:link
@@ -182,19 +234,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/posts/tech/installpwa/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/en/tags/next.js/</loc>
-    <lastmod>2025-08-17T12:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ryanwooa.github.io/en/tags/next.js/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/tags/next.js/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/en/tags/pwa/</loc>
@@ -364,19 +403,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/tags/node.js/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/en/tags/react/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ryanwooa.github.io/en/tags/react/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/tags/react/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/en/tags/%E7%BD%91%E7%AB%99%E9%83%A8%E7%BD%B2/</loc>

@@ -23,6 +23,15 @@
       <description>&lt;p&gt;做 Web 应用时，功能跑通往往只占一半。另一半是：&lt;strong&gt;搜索引擎能不能找到你、能不能正确理解你的页面&lt;/strong&gt;。这篇文章以 Next.js App Router 为例，结合一次真实项目的 SEO 改造，讲清楚「是什么、为什么、怎么配、上线后怎么管」。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>从前端数据库架构，逐步迁到 SSR</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/csrtossr/</link>
+      <pubDate>Wed, 18 Feb 2026 13:44:21 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/csrtossr/</guid>
+      <description>&lt;h2 id=&#34;1-我们原来的架构&#34;&gt;&lt;strong&gt;1. 我们原来的架构&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;项目早期是一套「前端数据库 + 后端同步」的模式。&lt;/p&gt;
+&lt;p&gt;用户打开网站后，会先把数据从后端同步到浏览器里的本地数据库（IndexedDB / Dexie）。之后页面里几乎所有的读操作都走这层前端库，不再每次都打 API。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PWA新体验</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/installpwa/</link>
       <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>

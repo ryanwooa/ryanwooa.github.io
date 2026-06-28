@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/next.js/</loc>
-    <lastmod>2025-08-17T12:37:00+13:00</lastmod>
+    <lastmod>2026-02-18T13:44:21+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -182,6 +182,45 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/tags/next.js/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/react/</loc>
+    <lastmod>2026-02-18T13:44:21+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/react/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/react/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/ssr/</loc>
+    <lastmod>2026-02-18T13:44:21+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/ssr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/ssr/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/posts/tech/csrtossr/</loc>
+    <lastmod>2026-02-18T13:44:21+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/posts/tech/csrtossr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/tech/csrtossr/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/pwa/</loc>
@@ -351,19 +390,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/tags/node.js/"
-                />
-  </url><url>
-    <loc>https://ryanwooa.github.io/zh/tags/react/</loc>
-    <lastmod>2024-05-04T16:37:00+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ryanwooa.github.io/en/tags/react/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://ryanwooa.github.io/zh/tags/react/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/posts/tech/aws&#43;react/</loc>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Next.js on Ryan&#39;s Blog</title>
-    <link>https://ryanwooa.github.io/zh/tags/next.js/</link>
-    <description>Recent content in Next.js on Ryan&#39;s Blog</description>
+    <title>SSR on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/zh/tags/ssr/</link>
+    <description>Recent content in SSR on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 18 Feb 2026 13:44:21 +1200</lastBuildDate>
-    <atom:link href="https://ryanwooa.github.io/zh/tags/next.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ryanwooa.github.io/zh/tags/ssr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从前端数据库架构，逐步迁到 SSR</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/csrtossr/</link>
@@ -16,14 +16,6 @@
       <description>&lt;h2 id=&#34;1-我们原来的架构&#34;&gt;&lt;strong&gt;1. 我们原来的架构&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;项目早期是一套「前端数据库 + 后端同步」的模式。&lt;/p&gt;
 &lt;p&gt;用户打开网站后，会先把数据从后端同步到浏览器里的本地数据库（IndexedDB / Dexie）。之后页面里几乎所有的读操作都走这层前端库，不再每次都打 API。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PWA新体验</title>
-      <link>https://ryanwooa.github.io/zh/posts/tech/installpwa/</link>
-      <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>
-      <guid>https://ryanwooa.github.io/zh/posts/tech/installpwa/</guid>
-      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;
-&lt;p&gt;前段时间，老板告诉我说，我们的网页项目需要支持离线使用的功能，要让用户在没网的情况下也能使用部分功能。刚开始听到的时候，我还觉得好神奇，不是网页连不上服务器就会 404 了吗。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,18 @@
     <description>Recent content in Next.js on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 12:37:00 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:44:16 +1200</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/en/tags/next.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From a Frontend Database Architecture to Gradual SSR Migration</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/csrtossr/</link>
+      <pubDate>Wed, 18 Feb 2026 13:44:16 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/csrtossr/</guid>
+      <description>&lt;h2 id=&#34;our-original-architecture&#34;&gt;&lt;strong&gt;Our Original Architecture&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Early on, the project used a &lt;strong&gt;frontend database + backend sync&lt;/strong&gt; model.&lt;/p&gt;
+&lt;p&gt;When a user opened the site, data was synced from the backend into a local browser database (IndexedDB / Dexie). After that, almost every read on the page went through this local layer instead of hitting the API on each navigation.&lt;/p&gt;
+&lt;p&gt;The upside was clear: &lt;strong&gt;the first load was slow, but everything after that felt very fast&lt;/strong&gt;. Lists, detail views, filters, and sorting were essentially local reads with almost no network latency—closer to an offline-first web app than a classic SPA.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New PWA experience</title>
       <link>https://ryanwooa.github.io/en/posts/tech/installpwa/</link>
