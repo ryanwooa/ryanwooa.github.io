@@ -6,12 +6,22 @@
     <description>Recent content on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:40:34 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:18:37 +1200</lastBuildDate>
     <atom:link href="https://ryanwooa.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playwright E2E for Next.js: Multi-Browser &#43; Desktop/Mobile Layering</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/playwrightinnextjs/</link>
+      <pubDate>Sun, 28 Jun 2026 11:18:37 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/playwrightinnextjs/</guid>
+      <description>&lt;p&gt;Jest is great for functions and APIs, but it cannot verify full user flows like “click a button → navigate → map loads → modal appears.” In our Next.js project, we built a Playwright E2E setup with &lt;strong&gt;three desktop browsers + two mobile viewports&lt;/strong&gt;, organized by &lt;strong&gt;Desktop / Mobile directories&lt;/strong&gt;. This post is a retrospective, not a rewrite of the official docs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-playwright&#34;&gt;&lt;strong&gt;Why Playwright&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Compared with tools like Cypress, Playwright fit our needs especially well:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SEO for a Next.js Project: From Concepts to Production</title>
       <link>https://ryanwooa.github.io/en/posts/tech/websiteseo/</link>
-      <pubDate>Tue, 28 Apr 2026 08:40:34 +1200</pubDate>
+      <pubDate>Thu, 02 Apr 2026 08:40:34 +1200</pubDate>
       <guid>https://ryanwooa.github.io/en/posts/tech/websiteseo/</guid>
       <description>&lt;p&gt;When you ship a web app, getting features working is only half the job. The other half is making sure &lt;strong&gt;search engines can find your site and understand each page correctly&lt;/strong&gt;. This post walks through SEO for the Next.js App Router, based on a real project refactor: what SEO is, why it matters, what to configure, and how to manage it after launch.&lt;/p&gt;
 &lt;hr&gt;

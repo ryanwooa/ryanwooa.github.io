@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEO on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/zh/tags/seo/</link>
+    <description>Recent content in SEO on Ryan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 02 Apr 2026 08:40:22 +1200</lastBuildDate>
+    <atom:link href="https://ryanwooa.github.io/zh/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js 项目 SEO 实践：从概念到落地</title>
+      <link>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</link>
+      <pubDate>Thu, 02 Apr 2026 08:40:22 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/tech/websiteseo/</guid>
+      <description>&lt;p&gt;做 Web 应用时，功能跑通往往只占一半。另一半是：&lt;strong&gt;搜索引擎能不能找到你、能不能正确理解你的页面&lt;/strong&gt;。这篇文章以 Next.js App Router 为例，结合一次真实项目的 SEO 改造，讲清楚「是什么、为什么、怎么配、上线后怎么管」。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

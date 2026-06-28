@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEO on Ryan&#39;s Blog</title>
+    <link>https://ryanwooa.github.io/en/tags/seo/</link>
+    <description>Recent content in SEO on Ryan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Apr 2026 08:40:34 +1200</lastBuildDate>
+    <atom:link href="https://ryanwooa.github.io/en/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO for a Next.js Project: From Concepts to Production</title>
+      <link>https://ryanwooa.github.io/en/posts/tech/websiteseo/</link>
+      <pubDate>Thu, 02 Apr 2026 08:40:34 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/tech/websiteseo/</guid>
+      <description>&lt;p&gt;When you ship a web app, getting features working is only half the job. The other half is making sure &lt;strong&gt;search engines can find your site and understand each page correctly&lt;/strong&gt;. This post walks through SEO for the Next.js App Router, based on a real project refactor: what SEO is, why it matters, what to configure, and how to manage it after launch.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-seo&#34;&gt;&lt;strong&gt;What Is SEO?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SEO (Search Engine Optimization)&lt;/strong&gt; is a set of technical and content practices aimed at helping your site appear in organic search results on Google, Bing, and similar engines.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
