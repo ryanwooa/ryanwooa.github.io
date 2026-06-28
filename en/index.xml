@@ -39,6 +39,17 @@
 &lt;p&gt;The upside was clear: &lt;strong&gt;the first load was slow, but everything after that felt very fast&lt;/strong&gt;. Lists, detail views, filters, and sorting were essentially local reads with almost no network latency—closer to an offline-first web app than a classic SPA.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Trip to Japan</title>
+      <link>https://ryanwooa.github.io/en/posts/life/japantravel/</link>
+      <pubDate>Fri, 28 Nov 2025 16:55:56 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/en/posts/life/japantravel/</guid>
+      <description>&lt;p&gt;In October, my wife and I traveled to Japan—it was our first time visiting.&lt;/p&gt;
+&lt;h1 id=&#34;preparation&#34;&gt;Preparation&lt;/h1&gt;
+&lt;p&gt;Since it was our first trip, we had to get a few things sorted beforehand.&lt;/p&gt;
+&lt;p&gt;Flights, hotels, visas, an eSIM, checking power adapters, Universal Studios Japan tickets, Shibuya Sky reservations, currency exchange, and so on.&lt;/p&gt;
+&lt;p&gt;One thing that felt especially convenient: you can add a Suica transit card directly to Apple Wallet. I had done something similar back in China, but after living in New Zealand for so long—where physical transit cards are the norm—I had completely forgotten that option existed.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>New PWA experience</title>
       <link>https://ryanwooa.github.io/en/posts/tech/installpwa/</link>
       <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>

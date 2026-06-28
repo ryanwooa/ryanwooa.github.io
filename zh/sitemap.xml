@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/posts/life/</loc>
-    <lastmod>2025-04-16T21:45:16+12:00</lastmod>
+    <lastmod>2025-11-28T16:55:56+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -221,6 +221,45 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://ryanwooa.github.io/zh/posts/tech/csrtossr/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/japan/</loc>
+    <lastmod>2025-11-28T16:55:56+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/japan/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/tags/travel/</loc>
+    <lastmod>2025-11-28T16:55:56+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/tags/travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/tags/travel/"
+                />
+  </url><url>
+    <loc>https://ryanwooa.github.io/zh/posts/life/japantravel/</loc>
+    <lastmod>2025-11-28T16:55:56+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ryanwooa.github.io/en/posts/life/japantravel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ryanwooa.github.io/zh/posts/life/japantravel/"
                 />
   </url><url>
     <loc>https://ryanwooa.github.io/zh/tags/pwa/</loc>

@@ -32,6 +32,16 @@
 &lt;p&gt;用户打开网站后，会先把数据从后端同步到浏览器里的本地数据库（IndexedDB / Dexie）。之后页面里几乎所有的读操作都走这层前端库，不再每次都打 API。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>日本之旅</title>
+      <link>https://ryanwooa.github.io/zh/posts/life/japantravel/</link>
+      <pubDate>Fri, 28 Nov 2025 16:55:56 +1200</pubDate>
+      <guid>https://ryanwooa.github.io/zh/posts/life/japantravel/</guid>
+      <description>&lt;p&gt;10月份，我和老婆去了日本旅游，这是我们第一次去日本玩。&lt;/p&gt;
+&lt;h1 id=&#34;准备阶段&#34;&gt;准备阶段&lt;/h1&gt;
+&lt;p&gt;毕竟是第一次去，当然要先做一些准备了。&lt;/p&gt;
+&lt;p&gt;买机票，订酒店，办签证，买esim，查功率， 买USJ门票，预订涩谷sky，换汇等等&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PWA新体验</title>
       <link>https://ryanwooa.github.io/zh/posts/tech/installpwa/</link>
       <pubDate>Sun, 17 Aug 2025 12:37:00 +1300</pubDate>
